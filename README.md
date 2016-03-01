@@ -182,7 +182,7 @@ lane :match do
 end
 ```
 
-Then all your your team as to do is `fastlane match` and keys, certs and profiles for all targets will be synced.
+Then all your team has to do is `fastlane match` and keys, certs and profiles for all targets will be synced.
 
 #### Passphrase
 
